@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-ollama
+langgraph
+pandas
+pydantic
+
+# python main.py --catalog data/supplier_catalog.csv --orders data/orders.csv --out out/      

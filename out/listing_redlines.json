@@ -1,0 +1,13 @@
+[
+  {
+    "status": "FAIL",
+    "issues": [
+      "Over-promising: The listing claims 'High Quality' without providing specific data or certifications to support this claim. This could be considered subjective and potentially misleading.",
+      "Grammar errors: 'High-quality construction for lasting durability.' should be 'High-quality construction ensures lasting durability.' or 'High-quality construction for lasting durability'",
+      "SEO Length: The SEO title 'Generic Product 24 - Buy Online | High Quality Accessory' is within the recommended length, but the SEO description 'Get your high quality Generic Product 24 today! A versatile accessory designed to meet your needs. Lightweight and durable. Shop now!' is acceptable but could be more descriptive and keyword-rich to maximize SEO benefit.",
+      "Missing Information: The bullet point 'Perfect for [Insert Target Audience/Use Case here, if known].' is incomplete and requires specific information to be useful. It should be replaced with a concrete target audience or use case.",
+      "Description Vague: The description is very generic and doesn't provide specific details about the product's features, benefits, or applications. It needs to be more informative to engage potential customers."
+    ],
+    "sku": "SKU-1024"
+  }
+]

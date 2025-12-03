@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "ORD-5001",
+    "sku": "SKU-1011",
+    "action": "FULFILL_DROPSHIP",
+    "email_draft": "Subject: Update on Your Order (ORD-5001)\n\nDear [Customer Name],\n\nThis email is to provide a quick update on your order, ORD-5001.\n\nYour order has been confirmed and is currently being processed for shipment. You will receive a separate email with tracking information as soon as it becomes available.\n\nThank you for your order!\n\nSincerely,\n\nThe [Your Company Name] Team"
+  },
+  {
+    "order_id": "ORD-5002",
+    "sku": "SKU-1001",
+    "action": "FULFILL_DROPSHIP",
+    "email_draft": "Subject: Update on Your Order (ORD-5002)\n\nDear [Customer Name],\n\nThis email is to provide a quick update on your order, ORD-5002.\n\nYour order has been confirmed and is currently being processed for shipment. You will receive a separate email with tracking information as soon as it becomes available.\n\nThank you for your order!\n\nSincerely,\n\nThe [Your Company Name] Team"
+  },
+  {
+    "order_id": "ORD-5003",
+    "sku": "SKU-1029",
+    "action": "FULFILL_DROPSHIP",
+    "email_draft": "Subject: Update on Your Order (ORD-5003)\n\nDear [Customer Name],\n\nThis email is to provide a quick update on your order, ORD-5003.\n\nYour order has been confirmed and is currently being processed for shipment. You will receive a separate email with tracking information as soon as it becomes available.\n\nThank you for your order!\n\nSincerely,\n\nThe [Your Company Name] Team"
+  },
+  {
+    "order_id": "ORD-5004",
+    "sku": "SKU-1025",
+    "action": "FULFILL_DROPSHIP",
+    "email_draft": "Subject: Update on Your Order (ORD-5004)\n\nDear [Customer Name],\n\nThis email is to provide a quick update on your order, ORD-5004.\n\nYour order has been confirmed and is currently being processed for shipment. You will receive a separate email with tracking information as soon as it becomes available.\n\nThank you for your order!\n\nSincerely,\n\nThe [Your Company Name] Team"
+  },
+  {
+    "order_id": "ORD-5005",
+    "sku": "SKU-1030",
+    "action": "FULFILL_DROPSHIP",
+    "email_draft": "Subject: Update on Your Order (ORD-5005)\n\nDear [Customer Name],\n\nThis email is to provide a quick update on your order, ORD-5005.\n\nYour order has been confirmed and is currently being processed for shipment. You will receive a separate email with tracking information as soon as it becomes available.\n\nThank you for your order!\n\nSincerely,\n\nThe [Your Company Name] Team"
+  }
+]
